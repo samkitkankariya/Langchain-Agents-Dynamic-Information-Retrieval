@@ -1,5 +1,11 @@
 # 🤖 Langchain Agents - Dynamic Information Retrieval
 
+## Introduction
+
+Welcome to Langchain Agents - Dynamic Information Retrieval, a cutting-edge project that demonstrates the power and versatility of LangChain tools and agents. This project showcases how Large Language Models (LLMs) can interact with various external data sources and perform complex tasks using a combination of natural language processing and specialized tools.
+
+This project is designed to help developers, researchers, and AI enthusiasts understand and experiment with the capabilities of LangChain's ecosystem. By providing a comprehensive set of examples and implementations, it serves as both a learning resource and a foundation for building advanced AI applications.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -12,12 +18,6 @@
    - [LLMs](#llms)
 6. [Examples](#examples)
 7. [Acknowledgments](#acknowledgments)
-
-## Introduction
-
-Welcome to Langchain Agents - Dynamic Information Retrieval, a cutting-edge project that demonstrates the power and versatility of LangChain tools and agents. This project showcases how Large Language Models (LLMs) can interact with various external data sources and perform complex tasks using a combination of natural language processing and specialized tools.
-
-This project is designed to help developers, researchers, and AI enthusiasts understand and experiment with the capabilities of LangChain's ecosystem. By providing a comprehensive set of examples and implementations, it serves as both a learning resource and a foundation for building advanced AI applications.
 
 ## Features
 
